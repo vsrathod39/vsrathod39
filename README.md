@@ -29,3 +29,4 @@ I can be reached at:
 ---
 📧 vsrathod39@gmail.com , 📲 +91 9631052209
 ![linkedin](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
