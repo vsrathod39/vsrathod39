@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 🐱‍💻 Now, I can develop full-fledged operational modern web apps with my tech skills such as MongoDB, Express.js, Node.js, Vanilla JavaScript, HTML, CSS, npm, Git/GitHub, and SQL.
 
 I can be reached at: 
-📧 vsrathod39@gmail.com, 
-📲 +91 9631052209
+📧 vsrathod39@gmail.com .
+📲 +91 9631052209 .
