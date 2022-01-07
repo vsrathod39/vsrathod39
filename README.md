@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🚀 Abount Me
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 ---
 🤔 I used to wonder how applications & mobile games used to work. When I was in high school, I started researching coding languages such as C and C++ and was also intrigued by the boom of android in the IT industry. In 2014, This was the time when I bought my first laptop with the aim that one day I will also create an application.
 
