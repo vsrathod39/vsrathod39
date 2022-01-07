@@ -27,6 +27,5 @@ Here are some ideas to get you started:
 
 I can be reached at:
 ---
-📧 vsrathod39@gmail.com , 📲 +91 9631052209
-![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)
-<!-- [](https://www.linkedin.com/in/vikas-kumar39/) -->
+📧 vsrathod39@gmail.com , 📲 +91 9631052209 , [linkedin](https://www.linkedin.com/in/vikas-kumar39/)
+<!-- ![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white) -->
