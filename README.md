@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm Vikas,
 
 <!--
 **vsrathod39/vsrathod39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### Abount Me
 I used to wonder how applications & mobile games used to work. When I was in high school, I started researching coding languages such as C and C++ and was also intrigued by the boom of android in the IT industry. In 2014, This was the time when I bought my first laptop with the aim that one day I will also create an application.
 
 With the mindset to learn more about computers and electronics, I decided to complete my graduation(B.tech) in Electronics and Communication and thought I'd do coding simultaneously. I successfully completed my graduation in 2020, but unfortunately was unable to complete any coding course.
