@@ -1,6 +1,4 @@
 ### Hi there 👋
-### I'm Vikas,
-
 <!--
 **vsrathod39/vsrathod39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
