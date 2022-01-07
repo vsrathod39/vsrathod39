@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://user-images.githubusercontent.com/91534659/148505029-ff9aecd4-46ca-442a-94ea-5c1c069b576b.png) ### Abount Me
+🚀 ### Abount Me
 I used to wonder how applications & mobile games used to work. When I was in high school, I started researching coding languages such as C and C++ and was also intrigued by the boom of android in the IT industry. In 2014, This was the time when I bought my first laptop with the aim that one day I will also create an application.
 
 With the mindset to learn more about computers and electronics, I decided to complete my graduation(B.tech) in Electronics and Communication and thought I'd do coding simultaneously. I successfully completed my graduation in 2020, but unfortunately was unable to complete any coding course.
