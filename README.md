@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🚀 Abount Me
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 ---
 🤔 I used to wonder how applications & mobile games used to work. When I was in high school, I started researching coding languages such as C and C++ and was also intrigued by the boom of android in the IT industry. In 2014, This was the time when I bought my first laptop with the aim that one day I will also create an application.
 
@@ -26,5 +25,7 @@ Here are some ideas to get you started:
 
 🐱‍💻 Now, I can develop full-fledged operational modern web apps with my tech skills such as MongoDB, Express.js, Node.js, Vanilla JavaScript, HTML, CSS, npm, Git/GitHub, and SQL.
 
-I can be reached at: 
+I can be reached at:
+---
 📧 vsrathod39@gmail.com , 📲 +91 9631052209 .
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
