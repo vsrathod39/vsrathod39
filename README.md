@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 💻 Last year(2020), I came across Masai School and I decided that I'm going to quit my job and learn to code and fulfill my dream. I have learned about MERN stack web development technologies, frameworks and data-structure algorithms.
 
-🐱‍💻 Now, I can develop full-fledged operational modern web apps with my tech skills such as MongoDB, Express.js, Node.js, Vanilla JavaScript, HTML, CSS, npm, Git/GitHub, and SQL.
+🐱‍💻 Now, I can develop full-fledged operational modern web apps with my tech skills such as MongoDB, Express.js, React, Node.js, Vanilla JavaScript, HTML, CSS, npm, Git/GitHub, and SQL.
 
 I can be reached at:
 ---
