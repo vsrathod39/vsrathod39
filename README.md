@@ -28,57 +28,99 @@ Here are some ideas to get you started:
 
 ### Languages and tools:
 <div
-      style="display: flex; align-items: center; justify-content: space-between; flex-direction: row;"
+      style="display: flex; align-items: center; justify-content: space-between"
     >
-      <div style="display: flex; align-items: center; flex-direction: column;">
+      <div
+        style="
+          display: flex;
+          align-items: center;
+          flex-direction: column;
+          width: 50;
+        "
+      >
         <img
           src="https://vikas.vercel.app/assets/img/html5-300x300.jpg"
-          width="60"
+          width="100%"
           height="40"
           alt="HTML5"
         />
         <p>HTML5</p>
       </div>
-      <div style="display: flex; align-items: center; flex-direction: column;">
+      <div
+        style="
+          display: flex;
+          align-items: center;
+          flex-direction: column;
+          width: 50;
+        "
+      >
         <img
           src="https://vikas.vercel.app/assets/img/css3-300x300.jpg"
-          width="60"
+          width="100%"
           height="40"
           alt="CSS"
         />
         <p>CSS3</p>
       </div>
-      <div style="display: flex; align-items: center; flex-direction: column;">
+      <div
+        style="
+          display: flex;
+          align-items: center;
+          flex-direction: column;
+          width: 50;
+        "
+      >
         <img
           src="https://vikas.vercel.app/assets/img/javascript_logo.png"
-          width="60"
+          width="100%"
           height="40"
           alt="Javascript"
         />
         <p>JavaScript</p>
       </div>
-      <div style="display: flex; align-items: center; flex-direction: column;">
+      <div
+        style="
+          display: flex;
+          align-items: center;
+          flex-direction: column;
+          width: 50;
+        "
+      >
         <img
           src="https://vikas.vercel.app/assets/img/mongodb_logo.jpg"
-          width="60"
+          width="100%"
           height="40"
           alt="MongoDB"
         />
         <p>MongoDB</p>
       </div>
-      <div style="display: flex; align-items: center; flex-direction: column;">
+      <div
+        style="
+          display: flex;
+          align-items: center;
+          flex-direction: column;
+          width: 50;
+        "
+      >
         <img
           src="https://vikas.vercel.app/assets/img/sql_logo.jpg"
-          width="60"
+          width="100%"
           height="40"
           alt="SQL"
         />
         <p>SQL</p>
       </div>
-      <div style="display: flex; align-items: center; flex-direction: column;">
+      <div
+        style="
+          display: flex;
+          align-items: center;
+          flex-direction: column;
+          width: 50;
+        "
+      >
         <img
           src="https://vikas.vercel.app/assets/img/mysql-logo-1-300x300.jpg"
-          width="60"
+          width="100%"
           height="40"
           alt="MySQL"
         />
