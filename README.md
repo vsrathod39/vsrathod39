@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 ### Languages and tools:
 <table>
   <tr>
-    <td><img src="https://vikas.vercel.app/assets/img/html5-300x300.jpg" width=40 height=60></td>
-    <td><img src="https://vikas.vercel.app/assets/img/css3-300x300.jpg" width=40 height=60></td>
+    <td><img src="https://vikas.vercel.app/assets/img/html5-300x300.jpg" width=100% height=60></td>
+    <td><img src="https://vikas.vercel.app/assets/img/css3-300x300.jpg" width=100% height=60></td>
     <td><img src="https://vikas.vercel.app/assets/img/javascript_logo.png" width=100% height=60></td>
-    <td><img src="https://vikas.vercel.app/assets/img/mongodb_logo.jpg" width=40 height=60></td>
-    <td><img src="https://vikas.vercel.app/assets/img/sql_logo.jpg" width=40 height=60></td>
-    <td><img src="https://vikas.vercel.app/assets/img/mysql-logo-1-300x300.jpg" width=40 height=60></td>
+    <td><img src="https://vikas.vercel.app/assets/img/mongodb_logo.jpg" width=100% height=60></td>
+    <td><img src="https://vikas.vercel.app/assets/img/sql_logo.jpg" width=100% height=60></td>
+    <td><img src="https://vikas.vercel.app/assets/img/mysql-logo-1-300x300.jpg" width=100% height=60></td>
   </tr>
   <tr>
     <td>HTML5</td>
