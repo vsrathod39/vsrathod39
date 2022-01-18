@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 ### Languages and tools:
 <div
-      style="display: flex; align-items: center; justify-content: space-between"
+      style="display: flex; align-items: center; justify-content: space-between; flex-direction: row;"
     >
-      <div style="display: flex; align-items: center; flex-direction: column">
+      <div style="display: flex; align-items: center; flex-direction: column;">
         <img
           src="https://vikas.vercel.app/assets/img/html5-300x300.jpg"
           width="60"
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
         />
         <p>HTML5</p>
       </div>
-      <div style="display: flex; align-items: center; flex-direction: column">
+      <div style="display: flex; align-items: center; flex-direction: column;">
         <img
           src="https://vikas.vercel.app/assets/img/css3-300x300.jpg"
           width="60"
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
         />
         <p>CSS3</p>
       </div>
-      <div style="display: flex; align-items: center; flex-direction: column">
+      <div style="display: flex; align-items: center; flex-direction: column;">
         <img
           src="https://vikas.vercel.app/assets/img/javascript_logo.png"
           width="60"
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
         />
         <p>JavaScript</p>
       </div>
-      <div style="display: flex; align-items: center; flex-direction: column">
+      <div style="display: flex; align-items: center; flex-direction: column;">
         <img
           src="https://vikas.vercel.app/assets/img/mongodb_logo.jpg"
           width="60"
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
         />
         <p>MongoDB</p>
       </div>
-      <div style="display: flex; align-items: center; flex-direction: column">
+      <div style="display: flex; align-items: center; flex-direction: column;">
         <img
           src="https://vikas.vercel.app/assets/img/sql_logo.jpg"
           width="60"
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
         />
         <p>SQL</p>
       </div>
-      <div style="display: flex; align-items: center; flex-direction: column">
+      <div style="display: flex; align-items: center; flex-direction: column;">
         <img
           src="https://vikas.vercel.app/assets/img/mysql-logo-1-300x300.jpg"
           width="60"
