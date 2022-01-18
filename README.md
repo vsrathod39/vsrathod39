@@ -27,10 +27,64 @@ Here are some ideas to get you started:
 🐱‍💻 Now, I can develop full-fledged operational modern web apps with my tech skills such as MongoDB, Express.js, React, Node.js, Vanilla JavaScript, HTML, CSS, npm, Git/GitHub, and SQL.
 
 ### Languages and tools:
-<div style="display: flex">
-  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="233" height="105" alt="html5 logo, best web design psd html cms development ecommerce" />
-<img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/reactlogo_4.png?itok=LXFHZrKJ" width="233" height="105" />
-<div />
+<div
+      style="display: flex; align-items: center; justify-content: space-between"
+    >
+      <div style="display: flex; align-items: center; flex-direction: column">
+        <img
+          src="https://vikas.vercel.app/assets/img/html5-300x300.jpg"
+          width="60"
+          height="40"
+          alt="HTML5"
+        />
+        <p>HTML5</p>
+      </div>
+      <div style="display: flex; align-items: center; flex-direction: column">
+        <img
+          src="https://vikas.vercel.app/assets/img/css3-300x300.jpg"
+          width="60"
+          height="40"
+          alt="CSS"
+        />
+        <p>CSS3</p>
+      </div>
+      <div style="display: flex; align-items: center; flex-direction: column">
+        <img
+          src="https://vikas.vercel.app/assets/img/javascript_logo.png"
+          width="60"
+          height="40"
+          alt="Javascript"
+        />
+        <p>JavaScript</p>
+      </div>
+      <div style="display: flex; align-items: center; flex-direction: column">
+        <img
+          src="https://vikas.vercel.app/assets/img/mongodb_logo.jpg"
+          width="60"
+          height="40"
+          alt="MongoDB"
+        />
+        <p>MongoDB</p>
+      </div>
+      <div style="display: flex; align-items: center; flex-direction: column">
+        <img
+          src="https://vikas.vercel.app/assets/img/sql_logo.jpg"
+          width="60"
+          height="40"
+          alt="SQL"
+        />
+        <p>SQL</p>
+      </div>
+      <div style="display: flex; align-items: center; flex-direction: column">
+        <img
+          src="https://vikas.vercel.app/assets/img/mysql-logo-1-300x300.jpg"
+          width="60"
+          height="40"
+          alt="MySQL"
+        />
+        <p>MySQL</p>
+      </div>
+    </div>
 
 I can be reached at:
 ---
