@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://vikas.vercel.app/](https://vikas.vercel.app/)
+- 👨‍💻 All of my projects are available at [click here](https://vikas.vercel.app/)
 
 - 💬 Ask me about **front-end, back-end and data structures algorithms**
 
-- 📫 How to reach me **📧 vsrathod39@gmail.com, 📲 +91 9631052209, **
+- 📫 How to reach me **📧 vsrathod39@gmail.com**, **📲 +91 9631052209**
 
 - 📄 Know about my experiences [click here](https://drive.google.com/file/d/1rUxMi1-rOyvzo-vLDc5wgjbQtM2HzhOI/view?usp=sharing)
 
