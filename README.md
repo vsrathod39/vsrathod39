@@ -40,7 +40,7 @@ Here are some ideas to get you started:
       >
         <img
           src="https://vikas.vercel.app/assets/img/html5-300x300.jpg"
-          width="100%"
+          width="50"
           height="40"
           alt="HTML5"
         />
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
       >
         <img
           src="https://vikas.vercel.app/assets/img/css3-300x300.jpg"
-          width="100%"
+          width="50"
           height="40"
           alt="CSS"
         />
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
       >
         <img
           src="https://vikas.vercel.app/assets/img/javascript_logo.png"
-          width="100%"
+          width="50"
           height="40"
           alt="Javascript"
         />
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
       >
         <img
           src="https://vikas.vercel.app/assets/img/mongodb_logo.jpg"
-          width="100%"
+          width="50"
           height="40"
           alt="MongoDB"
         />
@@ -104,7 +104,7 @@ Here are some ideas to get you started:
       >
         <img
           src="https://vikas.vercel.app/assets/img/sql_logo.jpg"
-          width="100%"
+          width="50"
           height="40"
           alt="SQL"
         />
@@ -120,7 +120,7 @@ Here are some ideas to get you started:
       >
         <img
           src="https://vikas.vercel.app/assets/img/mysql-logo-1-300x300.jpg"
-          width="100%"
+          width="50"
           height="40"
           alt="MySQL"
         />
