@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 🐱‍💻 Now, I can develop full-fledged operational modern web apps with my tech skills such as MongoDB, Express.js, React, Node.js, Vanilla JavaScript, HTML, CSS, npm, Git/GitHub, and SQL.
 
-### Languages and tools:
+### Languages and Databases:
 <table>
   <tr>
     <td><img src="https://vikas.vercel.app/assets/img/html5-300x300.jpg" width=100% height=60></td>
@@ -43,6 +43,32 @@ Here are some ideas to get you started:
     <td>MongoDB</td>
      <td>SQL</td>
      <td>MySQL</td>
+  </tr>
+ </table>
+ 
+### Libraries:
+<table>
+  <tr>
+    <td><img src="https://vikas.vercel.app/assets/img/react_logo.png" width=100% height=60></td>
+    <td><img src="https://vikas.vercel.app/assets/img/redux_logo.png" width=100% height=60></td>
+    <td><img src="https://vikas.vercel.app/assets/img/nodejs_logo.png" width=100% height=60></td>
+  </tr>
+  <tr>
+    <td>React</td>
+     <td>Redux</td>
+     <td>Node.js</td>
+  </tr>
+ </table>
+ 
+ ### Frameworks:
+<table>
+  <tr>
+    <td><img src="https://vikas.vercel.app/assets/img/bootstrap.png" width=100% height=60></td>
+    <td><img src="https://vikas.vercel.app/assets/img/express_logo.jpeg" width=100% height=60></td>
+  </tr>
+  <tr>
+    <td>Bootstrap</td>
+     <td>Express</td>
   </tr>
  </table>
 
