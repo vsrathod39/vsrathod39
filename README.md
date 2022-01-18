@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Languages and tools:
 <table>
   <tr>
-    <td><img src="https://vikas.vercel.app/assets/img/html5-300x300.jpg" width=100 height=160></td>
+    <td><img src="https://vikas.vercel.app/assets/img/html5-300x300.jpg" width=100 height=100></td>
     <td><img src="https://vikas.vercel.app/assets/img/css3-300x300.jpg" width=100 height=160></td>
     <td><img src="https://vikas.vercel.app/assets/img/javascript_logo.png" width=100 height=160></td>
     <td><img src="https://vikas.vercel.app/assets/img/mongodb_logo.jpg" width=100 height=160></td>
