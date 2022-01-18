@@ -79,10 +79,10 @@
  </table>
  <table>
   <tr>
-    <td><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsrathod39&show_icons=true&locale=en&layout=compact" alt="vsrathod39" /></p>       </td>
-    <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsrathod39&show_icons=true&locale=en" alt="vsrathod39" /></p></td>
+    <td><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsrathod39&show_icons=true&locale=en&layout=compact" alt="vsrathod39" width=100% /></p>       </td>
+    <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsrathod39&show_icons=true&locale=en" alt="vsrathod39" width=100% /></p></td>
   </tr>
-  <tr><td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsrathod39&" alt="vsrathod39" /></p></td></tr>
+  <tr><td colspan="2"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsrathod39&" alt="vsrathod39" width=100% /></p></td></tr>
  </table>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsrathod39&show_icons=true&locale=en&layout=compact" alt="vsrathod39" /></p> -->
