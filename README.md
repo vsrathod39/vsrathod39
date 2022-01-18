@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 🐱‍💻 Now, I can develop full-fledged operational modern web apps with my tech skills such as MongoDB, Express.js, React, Node.js, Vanilla JavaScript, HTML, CSS, npm, Git/GitHub, and SQL.
 
 ### Languages and tools:
-<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="340" height="80" alt="html, css, js" />
+<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="466" height="210" alt="html5 logo, best web design psd html cms development ecommerce" />
 
 I can be reached at:
 ---
