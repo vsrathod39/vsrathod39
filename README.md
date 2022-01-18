@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 ### Languages and tools:
 <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="233" height="105" alt="html5 logo, best web design psd html cms development ecommerce" />
+<img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/reactlogo_4.png?itok=LXFHZrKJ" width="233" height="105" />
 
 I can be reached at:
 ---
