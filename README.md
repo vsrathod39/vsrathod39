@@ -27,106 +27,18 @@ Here are some ideas to get you started:
 🐱‍💻 Now, I can develop full-fledged operational modern web apps with my tech skills such as MongoDB, Express.js, React, Node.js, Vanilla JavaScript, HTML, CSS, npm, Git/GitHub, and SQL.
 
 ### Languages and tools:
-<div
-      style="display: flex; align-items: center; justify-content: space-between"
-    >
-      <div
-        style="
-          display: flex;
-          align-items: center;
-          flex-direction: column;
-          width: 50;
-        "
-      >
-        <img
-          src="https://vikas.vercel.app/assets/img/html5-300x300.jpg"
-          width="50"
-          height="40"
-          alt="HTML5"
-        />
-        <p>HTML5</p>
-      </div>
-      <div
-        style="
-          display: flex;
-          align-items: center;
-          flex-direction: column;
-          width: 50;
-        "
-      >
-        <img
-          src="https://vikas.vercel.app/assets/img/css3-300x300.jpg"
-          width="50"
-          height="40"
-          alt="CSS"
-        />
-        <p>CSS3</p>
-      </div>
-      <div
-        style="
-          display: flex;
-          align-items: center;
-          flex-direction: column;
-          width: 50;
-        "
-      >
-        <img
-          src="https://vikas.vercel.app/assets/img/javascript_logo.png"
-          width="50"
-          height="40"
-          alt="Javascript"
-        />
-        <p>JavaScript</p>
-      </div>
-      <div
-        style="
-          display: flex;
-          align-items: center;
-          flex-direction: column;
-          width: 50;
-        "
-      >
-        <img
-          src="https://vikas.vercel.app/assets/img/mongodb_logo.jpg"
-          width="50"
-          height="40"
-          alt="MongoDB"
-        />
-        <p>MongoDB</p>
-      </div>
-      <div
-        style="
-          display: flex;
-          align-items: center;
-          flex-direction: column;
-          width: 50;
-        "
-      >
-        <img
-          src="https://vikas.vercel.app/assets/img/sql_logo.jpg"
-          width="50"
-          height="40"
-          alt="SQL"
-        />
-        <p>SQL</p>
-      </div>
-      <div
-        style="
-          display: flex;
-          align-items: center;
-          flex-direction: column;
-          width: 50;
-        "
-      >
-        <img
-          src="https://vikas.vercel.app/assets/img/mysql-logo-1-300x300.jpg"
-          width="50"
-          height="40"
-          alt="MySQL"
-        />
-        <p>MySQL</p>
-      </div>
-    </div>
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+  </tr>
+ </table>
 
 I can be reached at:
 ---
