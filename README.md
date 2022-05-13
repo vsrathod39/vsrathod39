@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vsrathod39" alt="vsrathod39" /></a> </p>
 
-- 🔭 I’m currently working on [to clone acko.com](https://www.acko.com/).
+- 🔭 I’m currently developing a full-stack(MERN) e-commerce site.
 
 - 🌱 I’m currently learning **React**.
 
