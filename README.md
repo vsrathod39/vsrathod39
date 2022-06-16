@@ -17,7 +17,7 @@ Skills: **React / Redux Express / MongoDB / Node.js / JavaScript / HTML5 / CSS3 
 - 📝 I regularly write articles on [https://medium.com/@vsrathod39](https://medium.com/@vsrathod39)
 - 👨‍💻 All of my projects are available at **[https://vikas.vercel.app/](https://vikas.vercel.app/)**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ri_y2gL-Jgg8ShIquioMB3i5HEQlZNez/view?usp=sharing](https://drive.google.com/file/d/1ri_y2gL-Jgg8ShIquioMB3i5HEQlZNez/view?usp=sharing)
-- 📫 How to reach me: **vsrathod39@gmail.com, +91 9631052209**
+- 📫 How to reach me: vsrathod39@gmail.com, +91 9631052209
 - ⚡ Fun fact: I think using others' resources is more complicated than developing own resources. 
 
 
