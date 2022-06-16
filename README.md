@@ -1,92 +1,44 @@
-<h1 align="center">Hi 👋, I'm Vikas</h1>
-<h3 align="center">A passionate full stack web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vsrathod39&label=Profile%20views&color=0e75b6&style=flat" alt="vsrathod39" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vsrathod39" alt="vsrathod39" /></a> </p>
+## Hi there 👋, Vikas Kumar
+##### Full Stack Web Developer | MERN Stack Developer | Software Engineer | Open Source Contributor|
+![Full Stack Web Developer | MERN Stack Developer | Software Engineer | Open Source Contributor|](https://www.shadevelopers.com/wp-content/uploads//2021/02/Web-development-banner.svg)
 
-- 🔭 I’m currently developing a full-stack(MERN) e-commerce site.
+I'm a solution-driven Full Stack Web Developer skilled in MERN Stack. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding, and the ability to write clean and efficient code.Looking forward to taking up a challenging and responsible role within an organization as a full-stack web developer.
 
-- 🌱 I’m currently learning **React**.
+Skills: **React / Redux Express / MongoDB / Node.js / JavaScript / HTML5 / CSS3 / Data Structures & Algorithms**
 
-- 👨‍💻 All of my projects are available at [click here](https://vikas.vercel.app/).
+- 🔭 I’m currently working on "Tour Web App". 
+- 🌱 I’m currently learning "backend using node.js & express". 
+- 💬 Ask me about "MERN Stack Development". 
+- 📝 I regularly write articles on [https://medium.com/@vsrathod39](https://medium.com/@vsrathod39)
+- 👨‍💻 All of my projects are available at **[https://vikas.vercel.app/](https://vikas.vercel.app/)**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ri_y2gL-Jgg8ShIquioMB3i5HEQlZNez/view?usp=sharing](https://drive.google.com/file/d/1ri_y2gL-Jgg8ShIquioMB3i5HEQlZNez/view?usp=sharing)
+- 📫 How to reach me: **vsrathod39@gmail.com, +91 9631052209**
+- ⚡ Fun fact: I think using others' resources is more complicated than developing own resources. 
 
-- 💬 Ask me about **front-end, back-end and data structures algorithms**.
 
-- 📫 How to reach me **📧 vsrathod39@gmail.com**, **📲 +91 9631052209**
-
-- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1rUxMi1-rOyvzo-vLDc5wgjbQtM2HzhOI/view?usp=sharing).
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vsrathod39)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vikas-kumar39/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/vsrathod39)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://vikas.vercel.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/vsrathod39?hr_r=1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/vsrathod39/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg' alt='repl-dot-it' height='40'>](https://replit.com/@vikasFw12Id132)   -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vikas-kumar39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas-kumar39" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vikas-kumar39/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas-kumar39/" height="30" width="40" /></a>
+<a href="https://codesandbox.com/vsrathod39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vsrathod39" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vsrathod39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vsrathod39" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vsrathod39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vsrathod39" height="30" width="40" /></a>
 </p>
-<!-- <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p> -->
-<h3 align="left">Languages and Databases:</h3>
-<table>
-  <tr>
-    <td><img src="https://vikas.vercel.app/assets/img/html5-300x300.jpg" width=100% height=60></td>
-    <td><img src="https://vikas.vercel.app/assets/img/css3-300x300.jpg" width=100% height=60></td>
-    <td><img src="https://vikas.vercel.app/assets/img/javascript_logo.png" width=100% height=60></td>
-    <td><img src="https://vikas.vercel.app/assets/img/mongodb_logo.jpg" width=100% height=60></td>
-    <td><img src="https://vikas.vercel.app/assets/img/sql_logo.jpg" width=100% height=60></td>
-    <td><img src="https://vikas.vercel.app/assets/img/mysql-logo-1-300x300.jpg" width=100% height=60></td>
-  </tr>
-  <tr>
-    <td>HTML5</td>
-     <td>CSS3</td>
-     <td>JavaScript</td>
-    <td>MongoDB</td>
-     <td>SQL</td>
-     <td>MySQL</td>
-  </tr>
- </table>
-<h3 align="left">Libraries:</h3>
-<table>
-  <tr>
-    <td><img src="https://vikas.vercel.app/assets/img/react_logo.png" width=100% height=60></td>
-    <td><img src="https://vikas.vercel.app/assets/img/redux_logo.png" width=100% height=60></td>
-    <td><img src="https://vikas.vercel.app/assets/img/nodejs_logo.png" width=100% height=60></td>
-  </tr>
-  <tr>
-    <td>React</td>
-     <td>Redux</td>
-     <td>Node.js</td>
-  </tr>
- </table>
-<h3 align="left">Frameworks:</h3>
-<table>
-  <tr>
-    <td><img src="https://vikas.vercel.app/assets/img/bootstrap.png" width=100% height=60></td>
-    <td><img src="https://vikas.vercel.app/assets/img/express_logo.jpeg" width=100% height=60></td>
-  </tr>
-  <tr>
-    <td>Bootstrap</td>
-     <td>Express</td>
-  </tr>
- </table>
-  <h3 align="left">Others:</h3>
-<table>
-  <tr>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width=100% height=60></td>
-    <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width=100% height=60></td>
-  </tr>
-  <tr>
-    <td>Arduino</td>
-     <td>Postman</td>
-  </tr>
- </table>
- <table>
-  <tr>
-    <td><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsrathod39&show_icons=true&locale=en&layout=compact" alt="vsrathod39" width=100% /></p>       </td>
-    <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsrathod39&show_icons=true&locale=en" alt="vsrathod39" width=100% /></p></td>
-  </tr>
-  <tr><td colspan="2"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsrathod39&" alt="vsrathod39" width=100% /></p></td></tr>
- </table>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsrathod39&show_icons=true&locale=en&layout=compact" alt="vsrathod39" /></p> -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsrathod39&show_icons=true&locale=en" alt="vsrathod39" /></p> -->
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsrathod39&" alt="vsrathod39" /></p> -->
+![Profile views](https://gpvc.arturio.dev/vsrathod39)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vsrathod39)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub metrics](https://metrics.lecoq.io/vsrathod39)            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsrathod39)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vsrathod39&show_icons=true&count_private=true)          ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vsrathod39)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vsrathod39)  
