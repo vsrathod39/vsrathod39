@@ -9,7 +9,7 @@
 
 <p align="justify">I'm a solution-driven Full Stack Web Developer skilled in MERN Stack. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding, and the ability to write clean and efficient code.Looking forward to taking up a challenging and responsible role within an organization as a full-stack web developer.</p>
 
-<p align="justify">Skills: **React / Redux Express / MongoDB / Node.js / JavaScript / HTML5 / CSS3 / Data Structures & Algorithms**</p>
+Skills: **React / Redux Express / MongoDB / Node.js / JavaScript / HTML5 / CSS3 / Data Structures & Algorithms**
 
 - 🔭 I’m currently working on "Tour Web App". 
 - 🌱 I’m currently learning "backend using node.js & express". 
