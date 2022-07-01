@@ -1,28 +1,34 @@
-
-
-
+<!----------------------------------- Heading: Name ------------------------------------>
 <h1 align="center">Hi there 👋, Vikas Kumar</h1>
 <h4 align="center">Full Stack Web Developer | MERN Stack Developer | Software Engineer | Open Source Contributor</h4>
-![Profile views](https://gpvc.arturio.dev/vsrathod39)
+<p align="left">
+    <a href="https://github.com/vsrathod39">
+        <img src="https://komarev.com/ghpvc/?username=vsrathod39&label=Profile%20views&color=0e75b6&style=flat" alt="vikas_views" />
+    </a>
+</p>
+
+<!----------------------------------- Image ------------------------------------>
 <p align="center">
   <img src="https://www.shadevelopers.com/wp-content/uploads//2021/02/Web-development-banner.svg" alt="Sublime's custom image"/>
 </p>
 
+<!----------------------------------- About Section ------------------------------------>
 <p align="justify">I'm a solution-driven Full Stack Web Developer skilled in MERN Stack. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding, and the ability to write clean and efficient code.Looking forward to taking up a challenging and responsible role within an organization as a full-stack web developer.</p>
 
-Skills: **React / Redux Express / MongoDB / Node.js / JavaScript / HTML5 / CSS3 / Data Structures & Algorithms**
+Skills: **Node.js / React.js / Redux / Express / MongoDB / JavaScript / HTML5 / CSS3 / Chakra UI / Data Structures & Algorithms**
 
-- 🔭 I’m currently working on "Tour Web App". 
-- 🌱 I’m currently learning "backend using node.js & express". 
+- 🔭 I’m currently working on Tour Web App. 
+- 🌱 I’m currently learning UI framework - Chakra UI. 
 - 💬 Ask me about "MERN Stack Development". 
 - 📝 I regularly write articles on [https://medium.com/@vsrathod39](https://medium.com/@vsrathod39)
 - 👨‍💻 All of my projects are available at **[https://vikas.vercel.app/](https://vikas.vercel.app/)**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ri_y2gL-Jgg8ShIquioMB3i5HEQlZNez/view?usp=sharing](https://drive.google.com/file/d/1ri_y2gL-Jgg8ShIquioMB3i5HEQlZNez/view?usp=sharing)
 - 📫 How to reach me: vsrathod39@gmail.com, +91 9631052209
-- ⚡ Fun fact: I think using others' resources is more complicated than developing own resources. 
-
+- ⚡ Fun fact: I think understanding others' written code is more complicated than developing our own code.
+<br>
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vsrathod39)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vikas-kumar39/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/vsrathod39)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://vikas.vercel.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/vsrathod39?hr_r=1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/vsrathod39/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg' alt='repl-dot-it' height='40'>](https://replit.com/@vikasFw12Id132)   -->
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/vikas-kumar39/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas-kumar39/" height="30" width="40" /></a>
