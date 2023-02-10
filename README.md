@@ -15,7 +15,8 @@
 <!-- --------------------------------- About Section ---------------------------------- -->
 <p align="justify">I'm a solution-driven Full Stack Web Developer skilled in MERN Stack. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding, and the ability to write clean and efficient code.Looking forward to taking up a challenging and responsible role within an organization as a full-stack web developer.</p>
 
-- 🏢 I’m working [@actyv.ai](https://www.actyv.ai/).
+- 🏢 I’m working as **SDE** [@actyv.ai](https://www.actyv.ai/).
+- 🏢 Ex - **Instructional Associate** [@Masai Schoo](https://masaischool.com/).
 - 🔭 I’m currently working on **[TourInfo](https://tourinfo.vercel.app/)** web app. 
 - 🌱 I’m currently learning UI framework - MDB. 
 - 💬 Ask me about **MERN** Stack Development. 
