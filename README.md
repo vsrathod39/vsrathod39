@@ -17,7 +17,7 @@
 
 Skills: **Node.js / React.js / Redux / Express / MongoDB / JavaScript / HTML5 / CSS3 / Chakra UI / Data Structures & Algorithms**
 
-- 🏢 I’m working [https://medium.com/@vsrathod39](@actyv.ai).
+- 🏢 I’m working [@actyv.ai](https://www.actyv.ai/).
 - 🔭 I’m currently working on Tour Web App. 
 - 🌱 I’m currently learning UI framework - Chakra UI. 
 - 💬 Ask me about "MERN Stack Development". 
