@@ -16,13 +16,13 @@
 <p align="justify">I'm a solution-driven Full Stack Web Developer skilled in MERN Stack. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding, and the ability to write clean and efficient code.Looking forward to taking up a challenging and responsible role within an organization as a full-stack web developer.</p>
 
 - 🏢 I’m working [@actyv.ai](https://www.actyv.ai/).
-- 🔭 I’m currently working on [TourInfo](https://www.actyv.ai/) web app. 
+- 🔭 I’m currently working on **[TourInfo](https://tourinfo.vercel.app/)** web app. 
 - 🌱 I’m currently learning UI framework - MDB. 
-- 💬 Ask me about "MERN Stack Development". 
-- 📝 I regularly write articles on [Medium](https://medium.com/@vsrathod39)
-- 👨‍💻 All of my projects are available at **[Portfolio](https://vikas.vercel.app/)**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bxIVCTCgIUCUpMUl4UNnfhoeRn565f67/view)
-- 📫 How to reach me: vsrathod39@gmail.com, +91 9631052209
+- 💬 Ask me about **MERN** Stack Development. 
+- 📝 I regularly write articles on **[Medium](https://medium.com/@vsrathod39)**.
+- 👨‍💻 All of my projects are available at **[Portfolio](https://vikas.vercel.app/)**.
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1bxIVCTCgIUCUpMUl4UNnfhoeRn565f67/view)**.
+- 📫 How to reach me: **vsrathod39@gmail.com, +91 9631052209**
 - ⚡ Fun fact: I think It takes more time to understand al-ready written code then write fresh code.
 
 <br>
